@@ -11,3 +11,8 @@ node_modules/
 
 # OS
 .DS_Store
+
+# Data files (Sensitive info)
+data.json
+users.json
+tokens.json
